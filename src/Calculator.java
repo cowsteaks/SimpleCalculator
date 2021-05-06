@@ -12,6 +12,7 @@ public class Calculator implements ActionListener {
     Color functionColor = new Color(245, 168, 187);
     Color numberColor = new Color(232,232,232);
     Color panelColor = new Color(209,209,209);
+
     JFrame frame;
     JTextField textField;
     JButton[] numberButtons = new JButton[10];
